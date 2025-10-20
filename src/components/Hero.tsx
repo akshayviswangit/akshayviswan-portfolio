@@ -59,7 +59,7 @@ const Hero = () => {
                 size="lg" 
                 className="cyber-button bg-primary hover:bg-primary/90 text-primary-foreground"
               >
-                <a href="https://drive.google.com/drive/u/0/home" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/16TWVr6R8msxEq41A1EVpOCFC7HulTiac/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                   Download CV
                 </a>
               </Button>
