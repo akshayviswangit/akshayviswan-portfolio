@@ -8,14 +8,14 @@ const Projects = () => {
       title: "Parkinson's Disease Multi-Modal Detector",
       description: "A web application that detects early signs of Parkinson's Disease using voice recordings and handwriting samples. Uses a multi-modal approach combining voice and handwriting analysis for accurate detection.",
       technologies: ["Python", "Flask", "Machine Learning", "Multi-Modal AI"],
-      github: "#",
+      github: "https://github.com/akshayviswangit/parkison_disease_detector_v2",
       demo: null,
     },
     {
       title: "Malayalam Chatbot",
       description: "An intelligent chatbot that answers questions in Malayalam from a given document or URL. Leverages the T5 model from Hugging Face for natural language understanding and generation.",
       technologies: ["Python", "Hugging Face", "NLP", "T5 Model"],
-      github: "#",
+      github: "https://github.com/akshayviswangit/Malayalam-Chatbot-using-NLP",
       demo: null,
     },
     {
