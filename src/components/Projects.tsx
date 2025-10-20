@@ -22,7 +22,7 @@ const Projects = () => {
       title: "Movie Recommendation System",
       description: "A Streamlit-based recommendation system that suggests movies using cosine similarity algorithms. Integrates with TMDB API to display movie posters and details for an enhanced user experience.",
       technologies: ["Python", "Streamlit", "TMDB API", "Recommendation Algorithm"],
-      github: "#",
+      github: "https://github.com/akshayviswangit/Movie-Recommendation-System",
       demo: null,
     },
   ];
