@@ -50,7 +50,7 @@ const Navigation = () => {
             }}
             className="text-xl font-bold text-gradient"
           >
-            Akshay Viswan
+            AK
           </a>
 
           {/* Desktop Navigation */}
