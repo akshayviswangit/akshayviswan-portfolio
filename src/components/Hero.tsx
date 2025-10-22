@@ -70,7 +70,7 @@ const Hero = () => {
                 className="cyber-button border-primary/50 hover:bg-primary/10"
               >
                 <a href="#about">
-                  Get to Know More
+                  Who Am I
                 </a>
               </Button>
             </div>
