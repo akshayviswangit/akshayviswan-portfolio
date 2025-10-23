@@ -5,6 +5,13 @@ import { Github, ExternalLink } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
+      title: "Password Strength Analyzer",
+      description: "This is a Password Strength Analyzer web app built with HTML, CSS, JavaScript, and Python Flask. It evaluates passwords in real-time on the frontend and via the backend, providing a strength score, user-friendly feedback, and suggestions to create stronger, more secure passwords. The interface features a neon terminal-style design with interactive strength meters and live analysis.",
+      technologies: ["HTML", "CSS", "JavaScript", "Python", "Flask"],
+      github: "https://github.com/akshayviswangit/Password-Analyzer",
+      demo: null,
+    },
+    {
       title: "Parkinson's Disease Multi-Modal Detector",
       description: "A web application that detects early signs of Parkinson's Disease using voice recordings and handwriting samples. Uses a multi-modal approach combining voice and handwriting analysis for accurate detection.",
       technologies: ["Python", "Flask", "Machine Learning", "Multi-Modal AI"],
