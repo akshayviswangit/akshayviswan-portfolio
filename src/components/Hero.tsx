@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Mail, Phone, Linkedin, Github, ChevronDown } from "lucide-react";
-import profileImage from "@/assets/profile-cyber.png";
+import profileImage from "@/assets/profile-hero.jpg";
 
 const roles = ["Cybersecurity Analyst", "VAPT Specialist", "SOC Analyst"];
 
